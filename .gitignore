@@ -1,5 +1,14 @@
-# virtual environment
+# environments
 .venv
+.env
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
 
 # pyenv
 .python-version
+
+# PyCharm
+.idea/
